@@ -46,7 +46,7 @@ Each application in `remote/` is a .NET 8.0 ASP.NET application deployed with:
 - **Traefik** reverse proxy for routing and SSL/TLS
 - **Environment variables** from `.env` files
 - **Automatic HTTPS** with Let's Encrypt certificates
-- **Domain routing** on `*.paweldywandev.com`
+- **Domain routing** on `*.paweldywan.com`
 
 ## Deployment
 
@@ -102,5 +102,4 @@ docker compose down
 
 - Docker & Docker Compose
 - Access to VPS for deployment
-- Domain configured for `*.paweldywandev.com`
-
+- Domain configured for `*.paweldywan.com`
